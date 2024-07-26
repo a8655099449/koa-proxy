@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist-ssr
+*.local
+stats.html
+yarn.lock
+yarn-error.log
+.idea
+.vite

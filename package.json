@@ -1,0 +1,16 @@
+{
+  "name": "koa-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-proxies": "^0.12.4"
+  }
+}
